@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kunal\\source\\repos\\Cymulative1_KunalThakare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{800DAF62-9AC6-4564-928E-4211D6264885}|Cymulative1_KunalThakare\\Cymulative1_KunalThakare.csproj|c:\\users\\kunal\\source\\repos\\cymulative1_kunalthakare\\cymulative1_kunalthakare\\controllers\\teacherpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800DAF62-9AC6-4564-928E-4211D6264885}|Cymulative1_KunalThakare\\Cymulative1_KunalThakare.csproj|solutionrelative:cymulative1_kunalthakare\\controllers\\teacherpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800DAF62-9AC6-4564-928E-4211D6264885}|Cymulative1_KunalThakare\\Cymulative1_KunalThakare.csproj|c:\\users\\kunal\\source\\repos\\cymulative1_kunalthakare\\cymulative1_kunalthakare\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{800DAF62-9AC6-4564-928E-4211D6264885}|Cymulative1_KunalThakare\\Cymulative1_KunalThakare.csproj|solutionrelative:cymulative1_kunalthakare\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800DAF62-9AC6-4564-928E-4211D6264885}|Cymulative1_KunalThakare\\Cymulative1_KunalThakare.csproj|c:\\users\\kunal\\source\\repos\\cymulative1_kunalthakare\\cymulative1_kunalthakare\\controllers\\teacherapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800DAF62-9AC6-4564-928E-4211D6264885}|Cymulative1_KunalThakare\\Cymulative1_KunalThakare.csproj|solutionrelative:cymulative1_kunalthakare\\controllers\\teacherapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800DAF62-9AC6-4564-928E-4211D6264885}|Cymulative1_KunalThakare\\Cymulative1_KunalThakare.csproj|c:\\users\\kunal\\source\\repos\\cymulative1_kunalthakare\\cymulative1_kunalthakare\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800DAF62-9AC6-4564-928E-4211D6264885}|Cymulative1_KunalThakare\\Cymulative1_KunalThakare.csproj|solutionrelative:cymulative1_kunalthakare\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800DAF62-9AC6-4564-928E-4211D6264885}|Cymulative1_KunalThakare\\Cymulative1_KunalThakare.csproj|c:\\users\\kunal\\source\\repos\\cymulative1_kunalthakare\\cymulative1_kunalthakare\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800DAF62-9AC6-4564-928E-4211D6264885}|Cymulative1_KunalThakare\\Cymulative1_KunalThakare.csproj|solutionrelative:cymulative1_kunalthakare\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800DAF62-9AC6-4564-928E-4211D6264885}|Cymulative1_KunalThakare\\Cymulative1_KunalThakare.csproj|c:\\users\\kunal\\source\\repos\\cymulative1_kunalthakare\\cymulative1_kunalthakare\\views\\teacherpage\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{800DAF62-9AC6-4564-928E-4211D6264885}|Cymulative1_KunalThakare\\Cymulative1_KunalThakare.csproj|solutionrelative:cymulative1_kunalthakare\\views\\teacherpage\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800DAF62-9AC6-4564-928E-4211D6264885}|Cymulative1_KunalThakare\\Cymulative1_KunalThakare.csproj|c:\\users\\kunal\\source\\repos\\cymulative1_kunalthakare\\cymulative1_kunalthakare\\views\\teacherpage\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{800DAF62-9AC6-4564-928E-4211D6264885}|Cymulative1_KunalThakare\\Cymulative1_KunalThakare.csproj|solutionrelative:cymulative1_kunalthakare\\views\\teacherpage\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800DAF62-9AC6-4564-928E-4211D6264885}|Cymulative1_KunalThakare\\Cymulative1_KunalThakare.csproj|c:\\users\\kunal\\source\\repos\\cymulative1_kunalthakare\\cymulative1_kunalthakare\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{800DAF62-9AC6-4564-928E-4211D6264885}|Cymulative1_KunalThakare\\Cymulative1_KunalThakare.csproj|solutionrelative:cymulative1_kunalthakare\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800DAF62-9AC6-4564-928E-4211D6264885}|Cymulative1_KunalThakare\\Cymulative1_KunalThakare.csproj|c:\\users\\kunal\\source\\repos\\cymulative1_kunalthakare\\cymulative1_kunalthakare\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{800DAF62-9AC6-4564-928E-4211D6264885}|Cymulative1_KunalThakare\\Cymulative1_KunalThakare.csproj|solutionrelative:cymulative1_kunalthakare\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800DAF62-9AC6-4564-928E-4211D6264885}|Cymulative1_KunalThakare\\Cymulative1_KunalThakare.csproj|c:\\users\\kunal\\source\\repos\\cymulative1_kunalthakare\\cymulative1_kunalthakare\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800DAF62-9AC6-4564-928E-4211D6264885}|Cymulative1_KunalThakare\\Cymulative1_KunalThakare.csproj|solutionrelative:cymulative1_kunalthakare\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800DAF62-9AC6-4564-928E-4211D6264885}|Cymulative1_KunalThakare\\Cymulative1_KunalThakare.csproj|c:\\users\\kunal\\source\\repos\\cymulative1_kunalthakare\\cymulative1_kunalthakare\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{800DAF62-9AC6-4564-928E-4211D6264885}|Cymulative1_KunalThakare\\Cymulative1_KunalThakare.csproj|solutionrelative:cymulative1_kunalthakare\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800DAF62-9AC6-4564-928E-4211D6264885}|Cymulative1_KunalThakare\\Cymulative1_KunalThakare.csproj|c:\\users\\kunal\\source\\repos\\cymulative1_kunalthakare\\cymulative1_kunalthakare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800DAF62-9AC6-4564-928E-4211D6264885}|Cymulative1_KunalThakare\\Cymulative1_KunalThakare.csproj|solutionrelative:cymulative1_kunalthakare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kunal\\source\\repos\\Cymulative1_KunalThakare\\Cymulative1_KunalThakare\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Cymulative1_KunalThakare\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kunal\\source\\repos\\Cymulative1_KunalThakare\\Cymulative1_KunalThakare\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Cymulative1_KunalThakare\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T14:15:52.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\kunal\\source\\repos\\Cymulative1_KunalThakare\\Cymulative1_KunalThakare\\Views\\TeacherPage\\List.cshtml",
+              "RelativeDocumentMoniker": "Cymulative1_KunalThakare\\Views\\TeacherPage\\List.cshtml",
+              "ToolTip": "C:\\Users\\kunal\\source\\repos\\Cymulative1_KunalThakare\\Cymulative1_KunalThakare\\Views\\TeacherPage\\List.cshtml",
+              "RelativeToolTip": "Cymulative1_KunalThakare\\Views\\TeacherPage\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T12:57:19.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "C:\\Users\\kunal\\source\\repos\\Cymulative1_KunalThakare\\Cymulative1_KunalThakare\\Views\\TeacherPage\\Show.cshtml",
+              "RelativeDocumentMoniker": "Cymulative1_KunalThakare\\Views\\TeacherPage\\Show.cshtml",
+              "ToolTip": "C:\\Users\\kunal\\source\\repos\\Cymulative1_KunalThakare\\Cymulative1_KunalThakare\\Views\\TeacherPage\\Show.cshtml",
+              "RelativeToolTip": "Cymulative1_KunalThakare\\Views\\TeacherPage\\Show.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T12:57:47.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeacherAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\kunal\\source\\repos\\Cymulative1_KunalThakare\\Cymulative1_KunalThakare\\Controllers\\TeacherAPIController.cs",
+              "RelativeDocumentMoniker": "Cymulative1_KunalThakare\\Controllers\\TeacherAPIController.cs",
+              "ToolTip": "C:\\Users\\kunal\\source\\repos\\Cymulative1_KunalThakare\\Cymulative1_KunalThakare\\Controllers\\TeacherAPIController.cs",
+              "RelativeToolTip": "Cymulative1_KunalThakare\\Controllers\\TeacherAPIController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAvwEoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:53:35.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeacherPageController.cs",
+              "DocumentMoniker": "C:\\Users\\kunal\\source\\repos\\Cymulative1_KunalThakare\\Cymulative1_KunalThakare\\Controllers\\TeacherPageController.cs",
+              "RelativeDocumentMoniker": "Cymulative1_KunalThakare\\Controllers\\TeacherPageController.cs",
+              "ToolTip": "C:\\Users\\kunal\\source\\repos\\Cymulative1_KunalThakare\\Cymulative1_KunalThakare\\Controllers\\TeacherPageController.cs",
+              "RelativeToolTip": "Cymulative1_KunalThakare\\Controllers\\TeacherPageController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwEgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:54:01.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kunal\\source\\repos\\Cymulative1_KunalThakare\\Cymulative1_KunalThakare\\Models\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "Cymulative1_KunalThakare\\Models\\SchoolDbContext.cs",
+              "ToolTip": "C:\\Users\\kunal\\source\\repos\\Cymulative1_KunalThakare\\Cymulative1_KunalThakare\\Models\\SchoolDbContext.cs",
+              "RelativeToolTip": "Cymulative1_KunalThakare\\Models\\SchoolDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:52:59.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\kunal\\source\\repos\\Cymulative1_KunalThakare\\Cymulative1_KunalThakare\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Cymulative1_KunalThakare\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\kunal\\source\\repos\\Cymulative1_KunalThakare\\Cymulative1_KunalThakare\\Models\\Teacher.cs",
+              "RelativeToolTip": "Cymulative1_KunalThakare\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:54:32.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\kunal\\source\\repos\\Cymulative1_KunalThakare\\Cymulative1_KunalThakare\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Cymulative1_KunalThakare\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\kunal\\source\\repos\\Cymulative1_KunalThakare\\Cymulative1_KunalThakare\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Cymulative1_KunalThakare\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T19:30:22.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kunal\\source\\repos\\Cymulative1_KunalThakare\\Cymulative1_KunalThakare\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cymulative1_KunalThakare\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kunal\\source\\repos\\Cymulative1_KunalThakare\\Cymulative1_KunalThakare\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Cymulative1_KunalThakare\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-28T14:18:02.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kunal\\source\\repos\\Cymulative1_KunalThakare\\Cymulative1_KunalThakare\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Cymulative1_KunalThakare\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kunal\\source\\repos\\Cymulative1_KunalThakare\\Cymulative1_KunalThakare\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Cymulative1_KunalThakare\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:26:09.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kunal\\source\\repos\\Cymulative1_KunalThakare\\Cymulative1_KunalThakare\\Program.cs",
+              "RelativeDocumentMoniker": "Cymulative1_KunalThakare\\Program.cs",
+              "ToolTip": "C:\\Users\\kunal\\source\\repos\\Cymulative1_KunalThakare\\Cymulative1_KunalThakare\\Program.cs",
+              "RelativeToolTip": "Cymulative1_KunalThakare\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:40:25.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\kunal\\source\\repos\\Cymulative1_KunalThakare\\Cymulative1_KunalThakare\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Cymulative1_KunalThakare\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\kunal\\source\\repos\\Cymulative1_KunalThakare\\Cymulative1_KunalThakare\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Cymulative1_KunalThakare\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAWwBgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T14:46:07.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
